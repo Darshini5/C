@@ -1,12 +1,12 @@
 # C
-<b>Installation of VScode and MinGw (GCC Compiler)</b>
+<b>**Installation of VScode and MinGw (GCC Compiler)**</b>
 <br>
 <br>
 **Step 1:** Search Download VScode for Window/Mac in Chrome.
 <br>
-Step 2: Setup VScode with default location and install.
+**Step 2:** Setup VScode with default location and install.
 <br>
-Step 3: Open New file for coding.
+**Step 3:** Open New file for coding.
 <br>
 Step 4: Install the necessary extensions C/C++.
 <br>
