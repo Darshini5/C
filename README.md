@@ -20,4 +20,4 @@
 <br>
 **Step 9:** Write Hello World! program in VScode and save.
 <br>
-**Step 10:** CLick New terminal -> cd ./Desktop -> gcc filename.c -> ./a.exe
+**Step 10:** CLick New terminal -> cd ./Desktop -> gcc filename.c -> ./a.exe(Window) or ./a.out(MAC,Linux).
