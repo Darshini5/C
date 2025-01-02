@@ -1,4 +1,4 @@
-# C
+# C (Programming Language)
 **Installation of VScode and MinGw (GCC Compiler)**
 <br>
 <br>
